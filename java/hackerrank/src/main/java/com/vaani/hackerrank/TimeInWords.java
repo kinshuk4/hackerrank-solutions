@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Created by andersonkmi on 8/1/2016.
+ *
  */
 public class TimeInWords {
     public static void main(String[] args) {

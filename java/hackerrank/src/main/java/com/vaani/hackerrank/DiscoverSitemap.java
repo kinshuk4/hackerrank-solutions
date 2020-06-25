@@ -3,7 +3,7 @@ package com.vaani.hackerrank;
 import java.util.*;
 
 /**
- * Created by andersonkmi on 8/20/2016.
+ *
  */
 public class DiscoverSitemap {
     public Map<String, List<String>> discover(List<LogEntry> logEntries) {

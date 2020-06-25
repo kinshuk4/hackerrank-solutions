@@ -1,7 +1,7 @@
 package com.vaani.hackerrank.sorting;
 
 /**
- * Created by andersonkmi on 8/28/16.
+ *
  */
 public class MergeSort {
     public void sort(int[] array) {

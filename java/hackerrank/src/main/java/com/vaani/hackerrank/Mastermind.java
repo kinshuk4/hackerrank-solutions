@@ -1,7 +1,7 @@
 package com.vaani.hackerrank;
 
 /**
- * Created by andersonkmi on 7/31/2016.
+ *
  */
 public class Mastermind {
     public static void main(String[] args) {

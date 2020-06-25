@@ -3,7 +3,7 @@ package com.vaani.hackerrank;
 import java.util.Stack;
 
 /**
- * Created by andersonkmi on 7/23/2016.
+ *
  */
 public class VerifyParenthesisBalance {
     public boolean isBalanced(String sentence) {

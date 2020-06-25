@@ -3,7 +3,7 @@ package com.vaani.hackerrank.graph;
 import java.util.LinkedList;
 
 /**
- * Created by andersonkmi on 8/2/16.
+ *
  */
 public class GraphTraversal {
     public static void main(String[] args) {

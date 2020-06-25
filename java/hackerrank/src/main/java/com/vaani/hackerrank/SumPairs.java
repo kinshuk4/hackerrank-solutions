@@ -3,7 +3,7 @@ package com.vaani.hackerrank;
 import java.util.Arrays;
 
 /**
- * Created by andersonkmi on 8/1/2016.
+ *
  */
 public class SumPairs {
     public void printMatchingPairs(int[] numbers, int sum) {

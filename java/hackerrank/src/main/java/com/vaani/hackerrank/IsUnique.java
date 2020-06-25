@@ -3,7 +3,7 @@ package com.vaani.hackerrank;
 import java.util.Arrays;
 
 /**
- * Created by andersonkmi on 8/17/2016.
+ *
  */
 public class IsUnique {
     public boolean verify(String input) {

@@ -3,7 +3,7 @@ package com.vaani.hackerrank;
 import java.util.*;
 
 /**
- * Created by andersonkmi on 8/28/16.
+ *
  */
 public class VerifyConcurrentUsers {
     public int verify(List<LoggedUser> users) {

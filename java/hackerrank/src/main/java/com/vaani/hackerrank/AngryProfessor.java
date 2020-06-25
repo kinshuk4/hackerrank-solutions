@@ -3,7 +3,7 @@ package com.vaani.hackerrank;
 import java.util.Scanner;
 
 /**
- * Created by andersonkmi on 8/7/2016.
+ *
  */
 public class AngryProfessor {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package com.vaani.hackerrank;
 
 /**
- * Created by andersonkmi on 8/28/16.
+ *
  */
 public class LoggedUser {
     private String name;

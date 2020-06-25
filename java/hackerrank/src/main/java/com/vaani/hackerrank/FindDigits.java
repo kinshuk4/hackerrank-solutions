@@ -3,7 +3,7 @@ package com.vaani.hackerrank;
 import java.util.Scanner;
 
 /**
- * Created by andersonkmi on 7/23/16.
+ *
  */
 public class FindDigits {
     public static void main(String[] args) {

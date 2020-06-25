@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Created by andersonkmi on 8/7/16.
+ *
  */
 public class MarkToys {
     public static void main(String[] args) {

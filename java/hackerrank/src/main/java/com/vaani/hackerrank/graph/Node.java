@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by andersonkmi on 8/2/16.
+ *
  */
 public class Node {
     private int value;

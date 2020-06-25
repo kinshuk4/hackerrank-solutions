@@ -1,7 +1,8 @@
 package com.vaani.hackerrank.sorting;
 
 /**
- * Created by andersonkmi on 8/28/16.
+ *
+ *
  */
 public class QuickSort {
     public void sort(int[] elements) {
